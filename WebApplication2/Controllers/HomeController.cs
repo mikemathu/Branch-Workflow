@@ -23,6 +23,7 @@ namespace WebApplication2.Controllers
             ViewBag = "Fixed and Non-scrolling Navbar";
             ViewBag = "Add serving customer window";
             ViewBag = "Style serving customer window background";
+            ViewBag = "Added Buttons";
             return View();
         }
 
