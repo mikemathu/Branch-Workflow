@@ -20,6 +20,7 @@ namespace WebApplication2.Controllers
 
         public IActionResult Queue()
         {
+            ViewBag = "Fixed and Non-scrolling Navbar";
             return View();
         }
 
