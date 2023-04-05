@@ -24,6 +24,7 @@ namespace WebApplication2.Controllers
             ViewBag = "Add serving customer window";
             ViewBag = "Style serving customer window background";
             ViewBag = "Added Buttons";
+            ViewBag = "style customer window";
             return View();
         }
 
