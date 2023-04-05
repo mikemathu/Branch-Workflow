@@ -18,6 +18,11 @@ namespace WebApplication2.Controllers
             return View();
         }
 
+        public IActionResult Queue()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
