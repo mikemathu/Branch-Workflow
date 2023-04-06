@@ -27,7 +27,8 @@ namespace WebApplication2.Controllers
             ViewBag = "style customer window";
             ViewBag = "Added from github";
             ViewBag = "Second Added from github ";
-             ViewBag = "Third Added from github ";
+            ViewBag = "Third Added from github ";
+                ViewBag = "Fourth Added from github ";
             return View();
         }
 
